@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardApp", "src\CardApp.csproj", "{E904F9BD-F48C-4B35-8351-076A6166F399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardAppTests", "tests\CardAppTests.csproj", "{0143BAA8-56A6-4922-9999-CE1FC24FA822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E904F9BD-F48C-4B35-8351-076A6166F399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E904F9BD-F48C-4B35-8351-076A6166F399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E904F9BD-F48C-4B35-8351-076A6166F399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E904F9BD-F48C-4B35-8351-076A6166F399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0143BAA8-56A6-4922-9999-CE1FC24FA822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0143BAA8-56A6-4922-9999-CE1FC24FA822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0143BAA8-56A6-4922-9999-CE1FC24FA822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0143BAA8-56A6-4922-9999-CE1FC24FA822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
